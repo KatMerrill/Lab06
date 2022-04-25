@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab06</string>
+
+<!-- Lab01 -->
+    <string name="welcome_message">Welcome to the cookie clicker!</string>
+    <string name="count_message">You have clicked the cookie 0 times</string>
+
+<!-- Lab03 -->
+    <string name="default_val">0</string>
+</resources>
